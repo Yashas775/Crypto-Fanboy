@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Crypto-Fanboy/static/css/main.deb4d580.chunk.css",
+    "main.js": "/Crypto-Fanboy/static/js/main.5e5075dd.chunk.js",
+    "main.js.map": "/Crypto-Fanboy/static/js/main.5e5075dd.chunk.js.map",
+    "runtime-main.js": "/Crypto-Fanboy/static/js/runtime-main.30be09ec.js",
+    "runtime-main.js.map": "/Crypto-Fanboy/static/js/runtime-main.30be09ec.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/Crypto-Fanboy/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.93febb0c.chunk.js": "/Crypto-Fanboy/static/js/2.93febb0c.chunk.js",
+    "static/js/2.93febb0c.chunk.js.map": "/Crypto-Fanboy/static/js/2.93febb0c.chunk.js.map",
+    "static/js/3.f21a249e.chunk.js": "/Crypto-Fanboy/static/js/3.f21a249e.chunk.js",
+    "static/js/3.f21a249e.chunk.js.map": "/Crypto-Fanboy/static/js/3.f21a249e.chunk.js.map",
+    "static/js/4.d5d5ecab.chunk.js": "/Crypto-Fanboy/static/js/4.d5d5ecab.chunk.js",
+    "static/js/4.d5d5ecab.chunk.js.map": "/Crypto-Fanboy/static/js/4.d5d5ecab.chunk.js.map",
+    "static/js/5.d290a327.chunk.js": "/Crypto-Fanboy/static/js/5.d290a327.chunk.js",
+    "static/js/5.d290a327.chunk.js.map": "/Crypto-Fanboy/static/js/5.d290a327.chunk.js.map",
+    "index.html": "/Crypto-Fanboy/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/Crypto-Fanboy/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.deb4d580.chunk.css.map": "/Crypto-Fanboy/static/css/main.deb4d580.chunk.css.map",
+    "static/js/2.93febb0c.chunk.js.LICENSE.txt": "/Crypto-Fanboy/static/js/2.93febb0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30be09ec.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.93febb0c.chunk.js",
+    "static/css/main.deb4d580.chunk.css",
+    "static/js/main.5e5075dd.chunk.js"
+  ]
+}
